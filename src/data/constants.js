@@ -14,6 +14,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1zMWCeZMmtJFr-tpz3ob_R7LocddjSr_K/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/prathameshppawar/",
   twitter: "https://twitter.com/Prathames0043",
+  github: "https://github.com/Prathameshppawar",
 };
 
 export const skills = [
