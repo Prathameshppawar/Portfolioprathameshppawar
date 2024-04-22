@@ -445,4 +445,29 @@ export const projects = [
     github: "https://github.com/Prathameshppawar/image_steganography",
     webapp: "https://trackify.duckdns.org",
   },
+  {
+    id: 4,
+    title: "Picturence",
+    date: "March 2023",
+    description:
+      "Picturence is a cutting-edge project built using Next.js that leverages the power of Artificial Intelligence (AI) to provide a suite of image processing features. The application is designed to interact with users through a simple and intuitive interface, allowing them to harness the capabilities of AI in an accessible manner.",
+    image:
+      "https://i.ibb.co/tBbYj3X/picturence.jpg",
+    tags: [
+      // "Docker",
+      // "AWS",
+      // "DuckDNS",
+      // "Eslint",
+      // "Husky",
+      // "CI/CD",
+      // "React Js",
+      // "MongoDb",
+      // "Node Js",
+      // "Express Js",
+      // "Redux",
+    ],
+    category: "web app",
+    github: "https://github.com/Prathameshppawar/image_steganography",
+    webapp: "https://trackify.duckdns.org",
+  },
 ];
