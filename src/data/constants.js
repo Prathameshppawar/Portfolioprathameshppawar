@@ -193,7 +193,7 @@ export const experiences = [
     role: "Full Stack Developer",
     company: "Divegen Technologies",
     date: "May 2024",
-    desc: "",
+    desc: "Until now I've handled 4 projects all from different domains like building a full stack ecommerce web application. Simulataneously I worked on the API testing and documentation part. Then was moved to building an AI model for recognizing the crop disease through given input image of leaves of the crop that ranged over 17 different classes was integrated with the website. A mobile app is also build and would server as a very helpful project for the farmers of Bihar. Cannot disclose more :)",
     skills: [
       "Full Stack Web Development",
       "Mobile App development using react native",
