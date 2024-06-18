@@ -189,6 +189,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://static.wixstatic.com/media/a1e067_5c4798e753a048c88c50315a98fba004~mv2.png/v1/crop/x_57,y_0,w_393,h_500/fill/w_324,h_351,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Divegen%20Logo%20Light.png",
+    role: "Full Stack Developer",
+    company: "Divegen Technologies",
+    date: "May 2024",
+    desc: "",
+    skills: [
+      "Full Stack Web Development",
+      "Mobile App development using react native",
+      "API testing and Documentation",
+      "Machine Learning",
+      ],
+    doc: "#",
+  },
+  {
+    id: 0,
     img: "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/02-nvidia-logo-color-grn-500x200-4c25-p@2x.png",
     role: "Nvidia Deep Learning Institute",
     company: "Nvidia",
