@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/prathameshppawar",
   resume:
-    "https://drive.google.com/file/d/1Ep-fFq__NXrJrpZVa9YXFCpBU6lnUTtU/view?usp=sharing",
+    "https://drive.google.com/file/d/1b-r3d8vUDmLSb4g673_T3g-wgfWyv-8B/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prathameshppawar/",
   twitter: "https://twitter.com/Prathames0043",
   github: "https://github.com/Prathameshppawar",
